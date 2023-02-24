@@ -5,13 +5,13 @@ html {
 body {
   margin: 0;
   text-align: center;
-  background-color: #322e2d;
+  background-color: #fff;
   color: #f6f0ee;
 }
 
 #logo {
-  width: 7rem;
-  height: 7rem;
+  width: 14rem;
+  height: 14rem;
   object-fit: contain;
   margin-top: 2rem;
 }
